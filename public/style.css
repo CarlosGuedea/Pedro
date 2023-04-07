@@ -1,0 +1,47 @@
+.header{
+    display: grid;
+    grid-template-columns: 60% 10% 10% 10%;
+}
+
+.menu{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    text-align: center;
+}
+
+.menu-img1{
+    max-width: 50%;
+}
+
+.menu-img2{
+    max-width: 50%;
+}
+
+.menu-img3{
+    max-width: 50%;
+}
+.login{
+    
+}
+
+.login-user-img{
+    max-width: 30%;
+}
+
+.login-password-img{
+    max-width: 30%;
+}
+
+.enviar{
+    color:white;
+    margin-top: 2rem;
+    background-color: cadetblue;
+    text-align: center;
+    width: 15%;
+    border: 0;
+    height: 50px;
+}
+
+.enviar:hover{
+    background-color: darkcyan;
+}
